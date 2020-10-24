@@ -14,3 +14,11 @@ git remote add origin [remote repository URL]
 git remote -v #verify new remote URL
 git push - origin main
 ```
+## Add new file or folder to .gitignore 
+
+Git still tracks unless you remove cache of it
+
+``bash
+git rm --cached <file>
+git rm -r --cached <folder>
+```
