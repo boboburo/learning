@@ -18,7 +18,7 @@ git push - origin main
 
 Git still tracks unless you remove cache of it
 
-``bash
+```bash
 git rm --cached <file>
 git rm -r --cached <folder>
 ```
