@@ -16,7 +16,7 @@ git push - origin main
 ```
 ## Add new file or folder to .gitignore 
 
-Git still tracks unless you remove cache of it
+Git still tracks unless you remove cache of it. This will only delete from the index; good if you have inadvertantly added wrong thing. 
 
 ```bash
 git rm --cached <file>
