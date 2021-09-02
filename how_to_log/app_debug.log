@@ -1,0 +1,25 @@
+2021-09-02 09:22:22,205 - how-to-log - DEBUG - Calling module function.
+2021-09-02 09:22:56,965 - how-to-log - DEBUG - Calling module function.
+2021-09-02 09:24:19,083 - how-to-log - DEBUG - Calling module function.
+2021-09-02 09:24:29,539 - how-to-log - DEBUG - Calling module function.
+2021-09-02 09:25:23,679 - how-to-log - DEBUG - Calling module function.
+2021-09-02 09:26:11,429 - how-to-log - DEBUG - Calling module function.
+2021-09-02 09:26:11,429 - how-to-log - DEBUG - Finished.
+2021-09-02 09:27:08,207 - how-to-log - DEBUG - Calling module function.
+2021-09-02 09:27:08,207 - how-to-log.mymodule.multiply - DEBUG - Executing multiply function.
+2021-09-02 09:27:08,208 - how-to-log - DEBUG - Finished.
+2021-09-02 09:32:30,190 - how-to-log - DEBUG - Calling module function.
+2021-09-02 09:33:08,815 - how-to-log - DEBUG - Calling module function.
+2021-09-02 09:33:08,816 - how-to-log.mymodule.multiply - DEBUG - Executing multiply function.
+2021-09-02 09:33:08,816 - how-to-log - DEBUG - Finished.
+2021-09-02 09:34:46,434 - how-to-log - DEBUG - Calling module function.
+2021-09-02 09:34:46,434 - how-to-log.mymodule.multiply - DEBUG - Executing multiply function.
+2021-09-02 09:34:46,435 - how-to-log - DEBUG - Finished.
+2021-09-02 09:35:46,725 - how-to-log - DEBUG - Calling module function.
+2021-09-02 09:35:57,329 - how-to-log - DEBUG - Calling module function.
+2021-09-02 09:36:06,823 - how-to-log - DEBUG - Calling module function.
+2021-09-02 09:36:06,824 - how-to-log.mymodule.multiply - DEBUG - Executing multiply function.
+2021-09-02 09:36:06,824 - how-to-log - DEBUG - Finished.
+2021-09-02 09:36:53,265 - how-to-log - DEBUG - Calling module function.
+2021-09-02 09:36:53,265 - how-to-log.mymodule.multiply - DEBUG - Executing multiply function.
+2021-09-02 09:36:53,266 - how-to-log - DEBUG - Finished.

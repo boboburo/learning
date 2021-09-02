@@ -1,0 +1,1 @@
+__all__ = ['multiply'] #good practice for import *
