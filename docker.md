@@ -6,6 +6,11 @@ List all containers
 docker container ls -a 
 OR
 docker ps -a
+
+or formatted
+
+docker ps --format "table {{.Names}}:\t{{.Ports}}\t{{.Status}}"
+
 ```
 List **a**ll containers and **f**ilter to those that are exited 
 ```
