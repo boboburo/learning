@@ -21,6 +21,19 @@ Delete those in filter
 docker rm $(docker ps -a -f status=exited -q)
 ```
 
+Log into running container 
+
+```
+docker exec -it <container name> /bin/bash
+```
+
+Copy a file to a container
+
+```
+docker cp data3.csv airflow:usr/local/airflow/data/data3.csv
+```
+
+
 https://www.digitalocean.com/community/tutorials/how-to-remove-docker-images-containers-and-volumes
 
 # Starting Images
