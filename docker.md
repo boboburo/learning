@@ -76,3 +76,7 @@ notebook
 docker rm notebook
 notebook
 ```
+
+## Dockerfile 
+
+pip install --no-cache-dir (don't save cache of pip install to keep image small) 
