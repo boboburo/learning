@@ -140,3 +140,10 @@ touch config
 
 Add the Visual Studio Code Remote - SSH. Becuase have laread created the **config** file we can simply add 
 
+
+
+## Adding Spark
+
+
+
+
